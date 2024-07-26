@@ -5,4 +5,5 @@ urlpatterns = [
     path('', home),
     path('contato/', contato),
     path('sobre/', sobre),
+    
 ]
